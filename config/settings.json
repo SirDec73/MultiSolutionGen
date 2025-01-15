@@ -1,0 +1,26 @@
+{
+    "projects": {
+        "MultiSolutionGen": {
+            "dependencies": [],
+            "dependents": [],
+            "guid": "5FD5503B-0593-6260-642C-2A1D7A7F5628",
+            "lib": false,
+            "pch": true,
+            "vcpkg": true,
+            "window": true
+        },
+        "Reseau_Serveur": {
+            "dependencies": [],
+            "dependents": [],
+            "guid": "79FF718F-1F2A-35E5-3DC3-01EA225F39B4",
+            "lib": false,
+            "pch": true,
+            "vcpkg": true,
+            "window": true
+        }
+    },
+    "solution_guid": "759B0663-5A2F-66D1-198E-655F4C04173A",
+    "solution_name": "MultiSolutionGen",
+    "startup_project": "MultiSolutionGen",
+    "version": "1.17.3"
+}

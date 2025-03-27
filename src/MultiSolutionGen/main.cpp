@@ -32,7 +32,7 @@ int WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, PSTR cmdLine, int cmdS
     // thread (function)    --> Envoyer les données
 
 
-    sf::RenderWindow window(sf::VideoMode(500, 500), "SFML works!");
+    sf::RenderWindow window(sf::VideoMode(500, 500), "Client SFML");
 
 
     ball.SetPosition(250.5f, 250.3f);

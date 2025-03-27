@@ -30,7 +30,7 @@ int WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, PSTR cmdLine, int cmdS
     // thread (main)        --> Afficher les valeurs (SFML)
     // thread (function)    --> Récupérer les valeurs
 
-    sf::RenderWindow window(sf::VideoMode(500, 500), "SFML works!");
+    sf::RenderWindow window(sf::VideoMode(500, 500), "Server SFML");
 
     ball.SetPosition(250, 250);
 
